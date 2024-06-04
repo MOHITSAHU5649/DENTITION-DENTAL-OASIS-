@@ -1,5 +1,5 @@
 # DENTITION-DENTAL-OASIS-
-THIS PROJECT IS MADE FOR EDUCATIONAL PURPOSE. AND IT IS MAINLY PREPARED FOR FRT PROJECT.
+THIS PROJECT IS MADE FOR EDUCATIONAL PURPOSE AND IT IS MAINLY PREPARED FOR FRT PROJECT.
 
 
           PROJECT NAME:-  DENTITION
@@ -7,12 +7,12 @@ THIS PROJECT IS MADE FOR EDUCATIONAL PURPOSE. AND IT IS MAINLY PREPARED FOR FRT 
 
 STATEMENT:
 
- Dental Oasis addresses the pressing need for prioritizing oral health and accessing trusted dental care. Our intuitive platform enables users to easily connect with registered dentists, schedule appointments, and access a rich library of dental resources. This holistic solution empowers individuals to make informed decisions  about their oral well-being, promoting dental care uptake and fostering radiant smiles.
+ Dental Oasis addresses the pressing need for prioritizing oral health and accessing trusted dental care. Our intuitive platform enables users to easily connect with registered dentists, schedule appointments, and access a rich library of dental resources. This holistic solution empowers individuals to make informed decisions  about their oral well-being,promoting dental care uptake and fostering radiant smiles.
 
           
 DESCRIPTION :-
 
-DENTAL OASIS , powered by DENTITION, is a web application designed to bridge the gap between patients and qualified dental care. It provides a user-friendly platform  for patients to manage appointments, access educational resources, and connect with dentists virtually. Our platform offers a           comprehensive solution for individuals seeking to maintain optimal oral health and enhance their smiles. This project was developed for an internship through the Future Ready Talent program, aiming to  create a user-friendly and informative dental care platform.
+DENTAL OASIS, powered by DENTITION, is a web application designed to bridge the gap between patients and qualified dental care. It provides a user-friendly platform  for patients to manage appointments, access educational resources, and connect with dentists virtually. Our platform offers a           comprehensive solution for individuals seeking to maintain optimal oral health and enhance their smiles. This project was developed for an internship through the Future Ready Talent program, aiming to  create a user-friendly and informative dental care platform.
 Find a Dentist: Search for and connect with a network of registered dentists in your area,
 1.simplifying the selection process.
 2.Appointment Booking: Schedule appointments directly through the platform, streamlining the scheduling process and saving valuable time.
