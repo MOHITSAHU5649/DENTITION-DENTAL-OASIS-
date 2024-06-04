@@ -30,16 +30,16 @@ AZURE AI SERVICES :-
 
 Team members :-
 
-     1. MOHIT SAHU
+
      https://github.com/MOHITSAHU5649
 
-     2. RIDDHIMA JAIN
+    
      https://github.com/riddhima-j
 
-     3. TANUJ KUMAR YADAV
+  
      https://github.com/tanuj-26heisnbrg
 
-     4. VISHESH SINGH RAJPUT 
+  
      https://github.com/Vishesh-Rajput
 
 
