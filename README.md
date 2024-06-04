@@ -17,9 +17,13 @@ This project was developed for an internship through the Future Ready Talent pro
 Team
 
 https://github.com/MOHITSAHU5649
+
 https://github.com/riddhima-j
+
 https://github.com/tanuj-26heisnbrg
+
 https://github.com/Vishesh-Rajput
+
 DESCRIPTION:- DENTAL OASIS , powered by DENTITION, is a web application designed to bridge the gap between patients and qualified dental care. Our platform offers a comprehensive solution for individuals seeking to maintain optimal oral health and enhance their smiles.
 
 Disclaimer:
