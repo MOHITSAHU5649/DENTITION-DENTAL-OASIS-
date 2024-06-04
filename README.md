@@ -30,16 +30,16 @@ AZURE AI SERVICES :-
 
 Team members :-
 
-
+     1) MOHIT SAHU 
      https://github.com/MOHITSAHU5649
-
-    
+     
+     2) RIDDHIMA JAIN 
      https://github.com/riddhima-j
 
-  
+     3) TANUJ KUMAR YADAV 
      https://github.com/tanuj-26heisnbrg
 
-  
+     4) VISHESH SINGH RAJPUT 
      https://github.com/Vishesh-Rajput
 
 
@@ -50,11 +50,11 @@ VIDEO URL --
 
 Here are some screenshots of our website 
 
-         HOME page -- (https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/50c4004b-6d46-47ed-9d6e-ffef36351ee0)
-         ABOUT -- (https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/67538da8-cecc-4777-81b2-bb7a4abaf8af)
-         SERVICES -- (https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/fbfb686f-8fc3-49b0-a2fd-44904bd3997d)
-         HEALTH BOT -- (https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/5a5b91e0-fd75-4ccb-8522-c59f5bb3223c)
-         CONTACT -- (https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/89f3b9ef-3f37-41e6-ada8-8432e1fe59ab)
+         HOME page -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/50c4004b-6d46-47ed-9d6e-ffef36351ee0
+         ABOUT  -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/67538da8-cecc-4777-81b2-bb7a4abaf8af
+         SERVICES -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/fbfb686f-8fc3-49b0-a2fd-44904bd3997d
+         HEALTH BOT -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/5a5b91e0-fd75-4ccb-8522-c59f5bb3223c
+         CONTACT -- https://github.com/MOHITSAHU5649/DENTITION-DENTAL-OASIS-/assets/170235895/89f3b9ef-3f37-41e6-ada8-8432e1fe59ab
 
 
 
